@@ -10,7 +10,6 @@
   - [Tistory](https://blackcon.tistory.com/)
   - [KakaoView](http://pf.kakao.com/_ySxnIxj)
 
-https://github.com
 ### Side Projects
 - Research
    |이름|기술스택|설명|별|
