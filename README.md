@@ -7,6 +7,7 @@
   - [Linkedin](https://www.linkedin.com/in/blackcon/)
   - [Twitter](https://twitter.com/jh_blank)
 - Blog
+  - [Github.io](https://blackcon.github.io/categories/)
   - [Tistory](https://blackcon.tistory.com/)
   - [KakaoView](http://pf.kakao.com/_ySxnIxj)
 
