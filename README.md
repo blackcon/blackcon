@@ -9,7 +9,6 @@
 - Blog
   - [Github.io](https://blackcon.github.io/categories/)
   - [Tistory](https://blackcon.tistory.com/)
-  - [KakaoView](http://pf.kakao.com/_ySxnIxj)
 
 ### Side Projects
 - Research
