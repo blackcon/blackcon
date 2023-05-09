@@ -23,3 +23,7 @@
    |----|-------|----|
    |[DeFi Hacks Analysis - Root Cause](https://web3sec.notion.site/web3sec/Web3-security-ddaa8bf9a985494dbaf70d698345b899)|한국어 번역|DeFi에서 발생한 보안 사례를 정리하고, 각 사례별로 취약점을 정리한 사이트이다.
 
+- Just For Fun
+   |이름|기술스택|설명|별|
+   |----|-------|----|--|
+   |[blackcon/VicunaWithGUI](https://github.com/blackcon/VicunaWithGUI)|![python](https://img.shields.io/badge/-python-000000?logo=python&style=flat) ![typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)|A guide designed to connect the GUI to the AI model Vicuna.|[![GitHub stars](https://img.shields.io/github/stars/blackcon/VicunaWithGUI?style=social&label=Star&maxAge=2592000)](https://GitHub.com/blackcon/VicunaWithGUI/stargazers/)
